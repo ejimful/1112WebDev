@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-image: url("https://github.com/ejimful/1112WebDev/raw/master/assets/css/images/bg1.jpg");
+    background-image: "../assets/css/images/bg1.jpg";
 }
 canvas{
     border: 2px solid black;
