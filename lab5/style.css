@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-image: url("/assets/css/images/overlay.png"), url("/assets/css/images/bg1.jpg");
+}
+p{
+    color:chocolate;
+    font-weight: 800;
+}
+h2{
+    /*預留歌曲名稱顯示空間*/
+    height:32px;
+    font-size:medium;
+}
+.extension{
+    background:#ade6bc;
+    border:solid #47b357;
+}
+.extension p{
+    color:	#012003;
+    font-size: 10pt;
+}

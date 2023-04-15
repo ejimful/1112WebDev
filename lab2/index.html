@@ -1,0 +1,26 @@
+<!DOCTYPEhtml>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>自動排課系統</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>社團課程時間表</h1>
+        <table id="courseTable"></table>
+        <p>開始日期：<input type = date value="2023-02-21"></p>
+        <p>新增課程：<input type = text id="addElement"> <input type="button" value="submit"></p>
+        <div class="extension">
+            <p>1. 刪除年份</p>
+            <p>2. user手動設定第一天</p>
+            <p>3. 輸入主題後新增一個活動</p>
+            <p>4. 單數與雙數列不同顏色</p>
+            <p>5. 放假日(停課、國定假日)文字顯示灰色</p>
+            
+
+        </div>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="topic.js"></script>
+        <script src="main.js"></script>
+    </body>
+</html>
