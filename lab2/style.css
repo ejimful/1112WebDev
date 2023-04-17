@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-image: "bg1.jpg";
+    background-image: url("bg1.jpg");
 }
 table{
     width: 60%;
