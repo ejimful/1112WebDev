@@ -1,0 +1,20 @@
+body{
+    text-align:center;
+    background-image: url("bg1.jpg");
+}
+table{
+    width: 80%;
+    margin: auto;
+    font-size: 1.5em;
+}
+td{
+    border-bottom: 1px solid blue;
+}
+.extension{
+    background:#ade6bc;
+    border:solid #47b357;
+}
+.extension p{
+    color:	#012003;
+    font-size: 10pt;
+}

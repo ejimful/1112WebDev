@@ -1,0 +1,7 @@
+body{
+    text-align: center;
+    background-image: url("bg1.jpg");
+}
+#progressBar{
+    width:320px;
+}
