@@ -135,7 +135,7 @@ window.addEventListener('DOMContentLoaded', event => {
                ctx.fillStyle = color;
                circle( centerX, centerY, blockSize / 2, true);
                imgMain= new Image();
-               imgMain.src="/FinalProject/js/food.png";
+               imgMain.src="./js/food.png";
                ctx.drawImage(imgMain,centerX-9, centerY-6);
 
           }
